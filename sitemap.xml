@@ -21,12 +21,22 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://carbonellestrany.github.io/es/privacidad/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://carbonellestrany.github.io/es/publicaciones/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://carbonellestrany.github.io/es/solidaridad/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://carbonellestrany.github.io/es/terminos/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
