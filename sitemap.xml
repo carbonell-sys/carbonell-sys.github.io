@@ -4,40 +4,168 @@
     <loc>https://carbonellestrany.github.io/es/</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://carbonellestrany.github.io/ca/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://carbonellestrany.github.io/en/"/>
   </url>
   <url>
     <loc>https://carbonellestrany.github.io/es/biografia/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://carbonellestrany.github.io/ca/biografia/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://carbonellestrany.github.io/en/biografia/"/>
   </url>
   <url>
     <loc>https://carbonellestrany.github.io/es/contacto/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://carbonellestrany.github.io/ca/contacto/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://carbonellestrany.github.io/en/contacto/"/>
   </url>
   <url>
     <loc>https://carbonellestrany.github.io/es/premios/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://carbonellestrany.github.io/ca/premios/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://carbonellestrany.github.io/en/premios/"/>
   </url>
   <url>
     <loc>https://carbonellestrany.github.io/es/privacidad/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://carbonellestrany.github.io/ca/privacidad/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://carbonellestrany.github.io/en/privacidad/"/>
   </url>
   <url>
     <loc>https://carbonellestrany.github.io/es/publicaciones/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://carbonellestrany.github.io/ca/publicaciones/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://carbonellestrany.github.io/en/publicaciones/"/>
   </url>
   <url>
     <loc>https://carbonellestrany.github.io/es/solidaridad/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://carbonellestrany.github.io/ca/solidaridad/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://carbonellestrany.github.io/en/solidaridad/"/>
   </url>
   <url>
     <loc>https://carbonellestrany.github.io/es/terminos/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://carbonellestrany.github.io/ca/terminos/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://carbonellestrany.github.io/en/terminos/"/>
+  </url>
+  <url>
+    <loc>https://carbonellestrany.github.io/ca/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://carbonellestrany.github.io/es/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://carbonellestrany.github.io/en/"/>
+  </url>
+  <url>
+    <loc>https://carbonellestrany.github.io/ca/biografia/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://carbonellestrany.github.io/es/biografia/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://carbonellestrany.github.io/en/biografia/"/>
+  </url>
+  <url>
+    <loc>https://carbonellestrany.github.io/ca/contacto/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://carbonellestrany.github.io/es/contacto/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://carbonellestrany.github.io/en/contacto/"/>
+  </url>
+  <url>
+    <loc>https://carbonellestrany.github.io/ca/premios/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://carbonellestrany.github.io/es/premios/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://carbonellestrany.github.io/en/premios/"/>
+  </url>
+  <url>
+    <loc>https://carbonellestrany.github.io/ca/privacidad/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://carbonellestrany.github.io/es/privacidad/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://carbonellestrany.github.io/en/privacidad/"/>
+  </url>
+  <url>
+    <loc>https://carbonellestrany.github.io/ca/publicaciones/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://carbonellestrany.github.io/es/publicaciones/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://carbonellestrany.github.io/en/publicaciones/"/>
+  </url>
+  <url>
+    <loc>https://carbonellestrany.github.io/ca/solidaridad/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://carbonellestrany.github.io/es/solidaridad/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://carbonellestrany.github.io/en/solidaridad/"/>
+  </url>
+  <url>
+    <loc>https://carbonellestrany.github.io/ca/terminos/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://carbonellestrany.github.io/es/terminos/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://carbonellestrany.github.io/en/terminos/"/>
+  </url>
+  <url>
+    <loc>https://carbonellestrany.github.io/en/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://carbonellestrany.github.io/es/"/>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://carbonellestrany.github.io/ca/"/>
+  </url>
+  <url>
+    <loc>https://carbonellestrany.github.io/en/biografia/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://carbonellestrany.github.io/es/biografia/"/>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://carbonellestrany.github.io/ca/biografia/"/>
+  </url>
+  <url>
+    <loc>https://carbonellestrany.github.io/en/contacto/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://carbonellestrany.github.io/es/contacto/"/>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://carbonellestrany.github.io/ca/contacto/"/>
+  </url>
+  <url>
+    <loc>https://carbonellestrany.github.io/en/premios/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://carbonellestrany.github.io/es/premios/"/>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://carbonellestrany.github.io/ca/premios/"/>
+  </url>
+  <url>
+    <loc>https://carbonellestrany.github.io/en/privacidad/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://carbonellestrany.github.io/es/privacidad/"/>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://carbonellestrany.github.io/ca/privacidad/"/>
+  </url>
+  <url>
+    <loc>https://carbonellestrany.github.io/en/publicaciones/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://carbonellestrany.github.io/es/publicaciones/"/>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://carbonellestrany.github.io/ca/publicaciones/"/>
+  </url>
+  <url>
+    <loc>https://carbonellestrany.github.io/en/solidaridad/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://carbonellestrany.github.io/es/solidaridad/"/>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://carbonellestrany.github.io/ca/solidaridad/"/>
+  </url>
+  <url>
+    <loc>https://carbonellestrany.github.io/en/terminos/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://carbonellestrany.github.io/es/terminos/"/>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://carbonellestrany.github.io/ca/terminos/"/>
   </url>
 </urlset>
